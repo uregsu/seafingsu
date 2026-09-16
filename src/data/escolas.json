@@ -1,0 +1,499 @@
+{
+  "source": "config/schools.ts",
+  "sha256": "f3b523742a4251a708688d18f1cd6d3910ed44f4dacbaefc6206edc1cf57cce3",
+  "syncedAt": "2026-09-16T14:21:48.048Z",
+  "schools": [
+    {
+      "id": "school-001",
+      "name": "AGOSTINHO CANO",
+      "slug": "agostinho-cano",
+      "cie": null
+    },
+    {
+      "id": "school-002",
+      "name": "ALAYDE MARIA VICENTE PROFA",
+      "slug": "alayde-maria-vicente-profa",
+      "cie": null
+    },
+    {
+      "id": "school-003",
+      "name": "ALBERTO BACAN PROF",
+      "slug": "alberto-bacan-prof",
+      "cie": null
+    },
+    {
+      "id": "school-004",
+      "name": "ALBERTO MENDES JR CAP PM",
+      "slug": "alberto-mendes-jr-cap-pm",
+      "cie": null
+    },
+    {
+      "id": "school-005",
+      "name": "ALEXANDRE LOPES OLIVEIRA",
+      "slug": "alexandre-lopes-oliveira",
+      "cie": null
+    },
+    {
+      "id": "school-006",
+      "name": "ALICE CHUERY PROFA",
+      "slug": "alice-chuery-profa",
+      "cie": null
+    },
+    {
+      "id": "school-007",
+      "name": "ANNA LAMBERGA ZEGLIO",
+      "slug": "anna-lamberga-zeglio",
+      "cie": null
+    },
+    {
+      "id": "school-008",
+      "name": "ANTONIO DE RE VEREADOR",
+      "slug": "antonio-de-re-vereador",
+      "cie": null
+    },
+    {
+      "id": "school-009",
+      "name": "ANTONIO PRATICI PREFEITO",
+      "slug": "antonio-pratici-prefeito",
+      "cie": null
+    },
+    {
+      "id": "school-010",
+      "name": "ANTONIO VIANA DE SOUZA PROF",
+      "slug": "antonio-viana-de-souza-prof",
+      "cie": null
+    },
+    {
+      "id": "school-011",
+      "name": "ARY GOMES CEL",
+      "slug": "ary-gomes-cel",
+      "cie": null
+    },
+    {
+      "id": "school-012",
+      "name": "AUGUST JOHANNES FERDINANDUS STAUDER, PADRE",
+      "slug": "august-johannes-ferdinandus-stauder-padre",
+      "cie": null
+    },
+    {
+      "id": "school-013",
+      "name": "BARTHOLOMEU DE CARLOS",
+      "slug": "bartholomeu-de-carlos",
+      "cie": null
+    },
+    {
+      "id": "school-014",
+      "name": "BRUNO RICCO PADRE",
+      "slug": "bruno-ricco-padre",
+      "cie": null
+    },
+    {
+      "id": "school-015",
+      "name": "CACILDA CACAPAVA DE OLIVEIRA PROFA",
+      "slug": "cacilda-cacapava-de-oliveira-profa",
+      "cie": null
+    },
+    {
+      "id": "school-016",
+      "name": "CAPISTRANO DE ABREU",
+      "slug": "capistrano-de-abreu",
+      "cie": null
+    },
+    {
+      "id": "school-017",
+      "name": "CARLOS MACHADO BITENCOURT MAL",
+      "slug": "carlos-machado-bitencourt-mal",
+      "cie": null
+    },
+    {
+      "id": "school-018",
+      "name": "CID AUGUSTO GUELLI PROF",
+      "slug": "cid-augusto-guelli-prof",
+      "cie": null
+    },
+    {
+      "id": "school-019",
+      "name": "CIDADE SOIMCO II",
+      "slug": "cidade-soimco-ii",
+      "cie": null
+    },
+    {
+      "id": "school-020",
+      "name": "CLARICE LISPECTOR",
+      "slug": "clarice-lispector",
+      "cie": null
+    },
+    {
+      "id": "school-021",
+      "name": "CONJUNTO HAB. BAIRRO DOS PIMENTAS II",
+      "slug": "conjunto-hab-bairro-dos-pimentas-ii",
+      "cie": null
+    },
+    {
+      "id": "school-022",
+      "name": "CONSELHEIRO CRISPINIANO",
+      "slug": "conselheiro-crispiniano",
+      "cie": null
+    },
+    {
+      "id": "school-023",
+      "name": "EMILIA ANNA ANTONIO PROFA",
+      "slug": "emilia-anna-antonio-profa",
+      "cie": null
+    },
+    {
+      "id": "school-024",
+      "name": "ENNIO CHIESA PROF",
+      "slug": "ennio-chiesa-prof",
+      "cie": null
+    },
+    {
+      "id": "school-025",
+      "name": "ERICO VERISSIMO",
+      "slug": "erico-verissimo",
+      "cie": null
+    },
+    {
+      "id": "school-026",
+      "name": "FABIO FANUCCHI PROF",
+      "slug": "fabio-fanucchi-prof",
+      "cie": null
+    },
+    {
+      "id": "school-027",
+      "name": "FRANCISCA BATISTA TRINDADE PROFA",
+      "slug": "francisca-batista-trindade-profa",
+      "cie": null
+    },
+    {
+      "id": "school-028",
+      "name": "FREDERICO DE BARROS BROTERO PROF",
+      "slug": "frederico-de-barros-brotero-prof",
+      "cie": null
+    },
+    {
+      "id": "school-029",
+      "name": "GUILHERMINO RODRIGUES DE LIMA",
+      "slug": "guilhermino-rodrigues-de-lima",
+      "cie": null
+    },
+    {
+      "id": "school-030",
+      "name": "HOMERO RUBENS DE SA PROF",
+      "slug": "homero-rubens-de-sa-prof",
+      "cie": null
+    },
+    {
+      "id": "school-031",
+      "name": "HUGO DE AGUIAR",
+      "slug": "hugo-de-aguiar",
+      "cie": null
+    },
+    {
+      "id": "school-032",
+      "name": "INOCOOP II",
+      "slug": "inocoop-ii",
+      "cie": null
+    },
+    {
+      "id": "school-033",
+      "name": "IZABEL FERREIRA DOS SANTOS PROFA",
+      "slug": "izabel-ferreira-dos-santos-profa",
+      "cie": null
+    },
+    {
+      "id": "school-034",
+      "name": "JAIR MIRANDA DR",
+      "slug": "jair-miranda-dr",
+      "cie": null
+    },
+    {
+      "id": "school-035",
+      "name": "JARDIM ARUJÁ",
+      "slug": "jardim-aruja",
+      "cie": null
+    },
+    {
+      "id": "school-036",
+      "name": "JD MARIA DIRCE III",
+      "slug": "jd-maria-dirce-iii",
+      "cie": null
+    },
+    {
+      "id": "school-037",
+      "name": "JD NOVA CUMBICA II",
+      "slug": "jd-nova-cumbica-ii",
+      "cie": null
+    },
+    {
+      "id": "school-038",
+      "name": "JOAO ALVARES DE SIQUEIRA BUENO",
+      "slug": "joao-alvares-de-siqueira-bueno",
+      "cie": null
+    },
+    {
+      "id": "school-039",
+      "name": "JOAO CAVALHEIRO SALEM PROF",
+      "slug": "joao-cavalheiro-salem-prof",
+      "cie": null
+    },
+    {
+      "id": "school-040",
+      "name": "JOAO CRISPINIANO SOARES",
+      "slug": "joao-crispiniano-soares",
+      "cie": null
+    },
+    {
+      "id": "school-041",
+      "name": "JOAO DE ALMEIDA BARBOSA",
+      "slug": "joao-de-almeida-barbosa",
+      "cie": null
+    },
+    {
+      "id": "school-042",
+      "name": "JOAO NUNES PASTOR",
+      "slug": "joao-nunes-pastor",
+      "cie": null
+    },
+    {
+      "id": "school-043",
+      "name": "JOAO RIBEIRO DE BARROS COMANDANTE",
+      "slug": "joao-ribeiro-de-barros-comandante",
+      "cie": null
+    },
+    {
+      "id": "school-044",
+      "name": "JOCILA PEREIRA GUIMARAES PROFA",
+      "slug": "jocila-pereira-guimaraes-profa",
+      "cie": null
+    },
+    {
+      "id": "school-045",
+      "name": "JOSE ALVES DE CERQUEIRA CESAR",
+      "slug": "jose-alves-de-cerqueira-cesar",
+      "cie": null
+    },
+    {
+      "id": "school-046",
+      "name": "JOSE DA COSTA BOUCINHAS PROF",
+      "slug": "jose-da-costa-boucinhas-prof",
+      "cie": null
+    },
+    {
+      "id": "school-047",
+      "name": "JOSE ROBERTO FRIEBOLIN PROF",
+      "slug": "jose-roberto-friebolin-prof",
+      "cie": null
+    },
+    {
+      "id": "school-048",
+      "name": "JOSE SCARAMELLI PROF",
+      "slug": "jose-scaramelli-prof",
+      "cie": null
+    },
+    {
+      "id": "school-049",
+      "name": "LAR IRMA CELESTE",
+      "slug": "lar-irma-celeste",
+      "cie": null
+    },
+    {
+      "id": "school-050",
+      "name": "LAURA DA PURIFICACAO C.MENDES PROFA",
+      "slug": "laura-da-purificacao-c-mendes-profa",
+      "cie": null
+    },
+    {
+      "id": "school-051",
+      "name": "LEVI VIEIRA DA MAIA, PROF",
+      "slug": "levi-vieira-da-maia-prof",
+      "cie": null
+    },
+    {
+      "id": "school-052",
+      "name": "LICINIO CARPINELLI PROF",
+      "slug": "licinio-carpinelli-prof",
+      "cie": null
+    },
+    {
+      "id": "school-053",
+      "name": "LINDAMIL BARBOSA DE OLIVEIRA PROFA",
+      "slug": "lindamil-barbosa-de-oliveira-profa",
+      "cie": null
+    },
+    {
+      "id": "school-054",
+      "name": "LOUIS BRAILLE",
+      "slug": "louis-braille",
+      "cie": null
+    },
+    {
+      "id": "school-055",
+      "name": "MARIA APARECIDA FELIX PORTO PROFA",
+      "slug": "maria-aparecida-felix-porto-profa",
+      "cie": null
+    },
+    {
+      "id": "school-056",
+      "name": "MARIA APARECIDA RODRIGUES PROFA",
+      "slug": "maria-aparecida-rodrigues-profa",
+      "cie": null
+    },
+    {
+      "id": "school-057",
+      "name": "MARIA HILDA ORNELAS DE OLIVEIRA PROFA",
+      "slug": "maria-hilda-ornelas-de-oliveira-profa",
+      "cie": null
+    },
+    {
+      "id": "school-058",
+      "name": "MARIA LEDA FERNANDES BRIGO PROFA",
+      "slug": "maria-leda-fernandes-brigo-profa",
+      "cie": null
+    },
+    {
+      "id": "school-059",
+      "name": "MARINHA FERR. DO NASCIMENTO PROFA",
+      "slug": "marinha-ferr-do-nascimento-profa",
+      "cie": null
+    },
+    {
+      "id": "school-060",
+      "name": "MARIO NAKATA PROF",
+      "slug": "mario-nakata-prof",
+      "cie": null
+    },
+    {
+      "id": "school-061",
+      "name": "MAURICIO GOULART DEPUTADO",
+      "slug": "mauricio-goulart-deputado",
+      "cie": null
+    },
+    {
+      "id": "school-062",
+      "name": "ORLANDO MINELLA",
+      "slug": "orlando-minella",
+      "cie": null
+    },
+    {
+      "id": "school-063",
+      "name": "OSWALDO SAMPAIO ALVES",
+      "slug": "oswaldo-sampaio-alves",
+      "cie": null
+    },
+    {
+      "id": "school-064",
+      "name": "PARQUE JUREMA III",
+      "slug": "parque-jurema-iii",
+      "cie": null
+    },
+    {
+      "id": "school-065",
+      "name": "PARQUE JUREMA IV",
+      "slug": "parque-jurema-iv",
+      "cie": null
+    },
+    {
+      "id": "school-066",
+      "name": "PASCOAL MAIMONI FILHO PROF",
+      "slug": "pascoal-maimoni-filho-prof",
+      "cie": null
+    },
+    {
+      "id": "school-067",
+      "name": "PAULO NOGUEIRA PROF",
+      "slug": "paulo-nogueira-prof",
+      "cie": null
+    },
+    {
+      "id": "school-068",
+      "name": "PAULO ROLIM LOUREIRO DOM",
+      "slug": "paulo-rolim-loureiro-dom",
+      "cie": null
+    },
+    {
+      "id": "school-069",
+      "name": "PEDRO MORCELI",
+      "slug": "pedro-morceli",
+      "cie": null
+    },
+    {
+      "id": "school-070",
+      "name": "PIMENTAS VII",
+      "slug": "pimentas-vii",
+      "cie": null
+    },
+    {
+      "id": "school-071",
+      "name": "RAFAEL RODRIGUES FILHO,PREF",
+      "slug": "rafael-rodrigues-filho-pref",
+      "cie": null
+    },
+    {
+      "id": "school-072",
+      "name": "REPUBLICA DA VENEZUELA",
+      "slug": "republica-da-venezuela",
+      "cie": null
+    },
+    {
+      "id": "school-073",
+      "name": "REPÚBLICA DA VENEZUELA II",
+      "slug": "republica-da-venezuela-ii",
+      "cie": null
+    },
+    {
+      "id": "school-074",
+      "name": "ROBERTO HIPOLITO DA COSTA BRIG.AR",
+      "slug": "roberto-hipolito-da-costa-brig-ar",
+      "cie": null
+    },
+    {
+      "id": "school-075",
+      "name": "ROTARY",
+      "slug": "rotary",
+      "cie": null
+    },
+    {
+      "id": "school-076",
+      "name": "SEBASTIAO WALTER FUSCO",
+      "slug": "sebastiao-walter-fusco",
+      "cie": null
+    },
+    {
+      "id": "school-077",
+      "name": "THEREZINHA CLOSA ELEUTERIO PROFA",
+      "slug": "therezinha-closa-eleuterio-profa",
+      "cie": null
+    },
+    {
+      "id": "school-078",
+      "name": "VALENTIN GONZALEZ ALONSO PADRE",
+      "slug": "valentin-gonzalez-alonso-padre",
+      "cie": null
+    },
+    {
+      "id": "school-079",
+      "name": "VICENTE MELRO",
+      "slug": "vicente-melro",
+      "cie": null
+    },
+    {
+      "id": "school-080",
+      "name": "VICTOR CIVITA",
+      "slug": "victor-civita",
+      "cie": null
+    },
+    {
+      "id": "school-081",
+      "name": "WALDEMAR FREIRE VERAS VEREADOR",
+      "slug": "waldemar-freire-veras-vereador",
+      "cie": null
+    },
+    {
+      "id": "school-082",
+      "name": "ZILDA ROMEIRO PINTO MOREIRA DA SILVA, PROFA",
+      "slug": "zilda-romeiro-pinto-moreira-da-silva-profa",
+      "cie": null
+    }
+  ]
+}

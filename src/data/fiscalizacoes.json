@@ -1,0 +1,151 @@
+{
+  "schema_version": 1,
+  "granularidade": "contrato_por_competencia_na_unidade_gestora",
+  "moeda": "BRL",
+  "unidade_monetaria": "centavos",
+  "arquivos_recebidos": 8,
+  "registros_unicos": 3,
+  "copias_redundantes": 5,
+  "registros": [
+    {
+      "contrato": "264/24",
+      "processo": "20241013408",
+      "objeto_original": "LIMPEZA PREDIAL - CENTRALIZADO",
+      "credor": "VIVA SERVICOS LTDA",
+      "ug": "080358",
+      "unidade_gestora": "DIR.INFRAESTRUTURA E SERV.ESCOLARES",
+      "ano": 2026,
+      "mes": 7,
+      "valor_cronograma_centavos": 404949962,
+      "valor_total_a_pagar_centavos": 100420197,
+      "diferenca_centavos": 304529765,
+      "status": "Finalizado",
+      "preenchimento_original": "Completas: 0; Parciais: 0; Sem resposta: 82",
+      "unidades_fiscalizadas": 82,
+      "pendentes": 0,
+      "em_andamento": 0,
+      "finalizadas": 82,
+      "id": "080358|20241013408|264/24|2026|7",
+      "competencia": "2026-07",
+      "categoria": "limpeza",
+      "preenchimento": {
+        "completas": 0,
+        "parciais": 0,
+        "sem_resposta": 82
+      },
+      "alertas": [
+        "FINALIZADAS_COM_PREENCHIMENTO_SEM_RESPOSTA"
+      ],
+      "fontes": [
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos limpeza julho (1).xlsx",
+          "sha256": "9a52c499beb16e844de0fd90f21d57e86d9479ce1ee3427dd1e6cef0f2670a41",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        },
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos limpeza julho.xlsx",
+          "sha256": "9a52c499beb16e844de0fd90f21d57e86d9479ce1ee3427dd1e6cef0f2670a41",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        }
+      ]
+    },
+    {
+      "contrato": "2329/26",
+      "processo": "20260447259",
+      "objeto_original": "ALIMENTAÇÃO ESCOLAR - MANIPULAÇÃO DE MERENDA",
+      "credor": "STAR NUTRI SERVICOS EIRELLI EPP",
+      "ug": "080358",
+      "unidade_gestora": "DIR.INFRAESTRUTURA E SERV.ESCOLARES",
+      "ano": 2026,
+      "mes": 8,
+      "valor_cronograma_centavos": 267576681,
+      "valor_total_a_pagar_centavos": 130763131,
+      "diferenca_centavos": 136813550,
+      "status": "Finalizado",
+      "preenchimento_original": "Completas: 82; Parciais: 0; Sem resposta: 0",
+      "unidades_fiscalizadas": 82,
+      "pendentes": 0,
+      "em_andamento": 0,
+      "finalizadas": 82,
+      "id": "080358|20260447259|2329/26|2026|8",
+      "competencia": "2026-08",
+      "categoria": "merenda",
+      "preenchimento": {
+        "completas": 82,
+        "parciais": 0,
+        "sem_resposta": 0
+      },
+      "alertas": [],
+      "fontes": [
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos (1) (2).xlsx",
+          "sha256": "0cd1165291fe5bb523e01723f7878f1d59eaa1cb28108289abfcb9e4dde13b48",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        },
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos (1) (1).xlsx",
+          "sha256": "0cd1165291fe5bb523e01723f7878f1d59eaa1cb28108289abfcb9e4dde13b48",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        },
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos (1).xlsx",
+          "sha256": "0cd1165291fe5bb523e01723f7878f1d59eaa1cb28108289abfcb9e4dde13b48",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        }
+      ]
+    },
+    {
+      "contrato": "264/24",
+      "processo": "20241013408",
+      "objeto_original": "LIMPEZA PREDIAL - CENTRALIZADO",
+      "credor": "VIVA SERVICOS LTDA",
+      "ug": "080358",
+      "unidade_gestora": "DIR.INFRAESTRUTURA E SERV.ESCOLARES",
+      "ano": 2026,
+      "mes": 8,
+      "valor_cronograma_centavos": 404949962,
+      "valor_total_a_pagar_centavos": 94374384,
+      "diferenca_centavos": 310575578,
+      "status": "Finalizado",
+      "preenchimento_original": "Completas: 82; Parciais: 0; Sem resposta: 0",
+      "unidades_fiscalizadas": 82,
+      "pendentes": 0,
+      "em_andamento": 0,
+      "finalizadas": 82,
+      "id": "080358|20241013408|264/24|2026|8",
+      "competencia": "2026-08",
+      "categoria": "limpeza",
+      "preenchimento": {
+        "completas": 82,
+        "parciais": 0,
+        "sem_resposta": 0
+      },
+      "alertas": [],
+      "fontes": [
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos (3).xlsx",
+          "sha256": "4327fbd3187f6eb77660f8fe192995976dd06ec2560f79246013addbcc956766",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        },
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos (2).xlsx",
+          "sha256": "4327fbd3187f6eb77660f8fe192995976dd06ec2560f79246013addbcc956766",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        },
+        {
+          "arquivo": "RelatorioFiscalizacaoContratos.xlsx",
+          "sha256": "4327fbd3187f6eb77660f8fe192995976dd06ec2560f79246013addbcc956766",
+          "aba": "Relatorio",
+          "intervalo": "A2:Q2"
+        }
+      ]
+    }
+  ]
+}

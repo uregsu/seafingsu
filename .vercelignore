@@ -1,0 +1,5 @@
+.npm-cache
+tests
+scripts
+docs
+*.txt
